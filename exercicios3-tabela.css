@@ -1,0 +1,55 @@
+.tituloTKD{
+
+    font-family:sans-serif;
+    font-size: 40px;
+    margin-bottom:100px;
+    
+}
+.tituloTKD:hover{
+    margin-left:10px;
+    font-size:50px;
+    transition: .5s;
+   
+}
+h2{
+    font-family:sans-serif;
+    font-size:30px;
+}
+h2:hover{
+    margin-left: 10px;
+    transition:.5s;
+}
+p{
+    font-family:sans-serif;
+    font-size:20px;
+
+}
+
+div.figure {
+    float: right;
+    width: 30%;
+    text-align: center;
+    font-style: italic;
+    font-size: smaller;
+    text-indent: 0;
+    border: thin silver solid;
+    margin: 0.5em;
+    padding: 0.5em;
+  }
+#tabela{
+    border
+}
+table{
+
+    border-collapse: collapse;
+}
+table th{
+    text-align:left;
+    background-color: rgb(77, 172, 135);
+    color: white;
+    padding: 4px 30px 4px 8px;
+}
+table td{
+    border: 1px solid #e3e3e3;
+    padding: 4px 8px;
+}
